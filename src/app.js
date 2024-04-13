@@ -10,6 +10,10 @@ const corsOptions = {
   withCredentials: true,
 };
 
+// RESEND_API=re_cCDPgf1C_BQN6XWZG1k92kjTSsbhSgNUT
+// PORT=8000
+// EMAIL=fazilathar856@gmail.com
+
 import orderRoute from "../routes/order.route.js";
 
 app
